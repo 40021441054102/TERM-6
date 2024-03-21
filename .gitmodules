@@ -1,3 +1,9 @@
 [submodule "OS-Lab-Projects"]
 	path = OS-Lab-Projects
 	url = https://github.com/40021441054102/OS-Lab-Projects.git
+[submodule "Assembli"]
+	path = Assembli
+	url = https://github.com/40021441054102/Assembli.git
+[submodule "Algorithms"]
+	path = Algorithms
+	url = https://github.com/40021441054102/Algorithms.git

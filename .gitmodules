@@ -7,3 +7,12 @@
 [submodule "OS-Lab"]
 	path = OS-Lab
 	url = https://github.com/40021441054102/OS-Lab.git
+[submodule "QSSL/qb"]
+	path = QSSL/qb
+	url = https://github.com/QSSLibrary/qb.git
+[submodule "QSSL/CelestialObjects"]
+	path = QSSL/CelestialObjects
+	url = https://github.com/QSSLibrary/CelestialObjects.git
+[submodule "QSSL/QSSL-Project"]
+	path = QSSL/QSSL-Project
+	url = https://github.com/QSSLibrary/QSSL-Project.git

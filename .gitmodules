@@ -22,3 +22,6 @@
 [submodule "Database"]
 	path = Database
 	url = https://github.com/40021441054102/Database.git
+[submodule "Research-and-Presentation"]
+	path = Research-and-Presentation
+	url = https://github.com/40021441054102/Research-and-Presentation.git

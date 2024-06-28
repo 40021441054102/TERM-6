@@ -19,3 +19,6 @@
 [submodule "Software-Engineering"]
 	path = Software-Engineering
 	url = https://github.com/40021441054102/Software-Engineering.git
+[submodule "Database"]
+	path = Database
+	url = https://github.com/40021441054102/Database.git
